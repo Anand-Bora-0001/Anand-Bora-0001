@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F74C00&width=600&lines=Hey+there!+👋;I'm+Anand+Bora!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)  
 
 <p align="center">
-  <img src="[https://bilginc.com/editorFiles/4fb239cb.gif](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)" width="600" height="350">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs4eTZremRibmN4ZmlmdnE5OXVzbnBrejZra3d6YTlyMng3d2lndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="350">
 </p>
 
 ## 🚀 About Me  
