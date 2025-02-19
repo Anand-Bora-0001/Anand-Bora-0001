@@ -1,7 +1,3 @@
-Here's your updated README with your correct links, username, and showcased projects. Let me know if you need further refinements! 🚀  
-
----
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F74C00&width=600&lines=Hey+there!+👋;I'm+Anand+Bora!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)  
 
 <p align="center">
