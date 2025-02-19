@@ -41,7 +41,7 @@
 ## 📌 Featured Projects  
 🚀 **[WordPress Plugin](#)** - Custom plugin development for WordPress  
 📜 **[Bulk Certificate Generator](#)** - Flask-based system for generating certificates in bulk  
-🚆 **[Railway Management System](#)** - SQL + Flask-based project for railway operations  
+🚆 **[Railway Management System](#)** - MYSQL + Flask-based project for railway operations  
 
 ---
 
