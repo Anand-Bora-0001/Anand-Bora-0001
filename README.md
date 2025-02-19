@@ -5,13 +5,12 @@ Here's your updated README with your correct links, username, and showcased proj
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F74C00&width=600&lines=Hey+there!+👋;I'm+Anand+Bora!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)  
 
 <p align="center">
-  <img src="https://bilginc.com/editorFiles/4fb239cb.gif" width="600" height="350">
+  <img src="[https://bilginc.com/editorFiles/4fb239cb.gif](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)" width="600" height="350">
 </p>
 
 ## 🚀 About Me  
 🎓 **Third-year Computer Engineering Student** at **Savitribai Phule Pune University**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
-🏆 **Runner-up (2nd Rank) in an Inter-College Coding Competition**  
 🌱 **Currently Learning:** Microservices, Cloud Computing & Advanced AI  
 
 ---
@@ -51,7 +50,7 @@ Here's your updated README with your correct links, username, and showcased proj
 ---
 
 ## 🌟 Hobbies & Interests  
-🎶 **Music** | ✈️ **Travelling** | 🏋️ **Fitness & Health** | 📚 **Tech Blogs**  
+🎶 **Music** | ✈️ **Travelling** | 🎮 **Gamer**
 
 ---
 
@@ -67,7 +66,3 @@ Here's your updated README with your correct links, username, and showcased proj
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-This version improves your profile with your **correct links, project highlights, and a more engaging structure.** Let me know if you want any adjustments! 🚀🔥
