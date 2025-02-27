@@ -94,10 +94,6 @@ MYSQL + Flask-based project for railway operations management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand-Bora-0001&theme=react-dark&hide_border=true" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@Anand_Bora/d6076c5a-84fd-4300-b51d-44cc56e6615b.png" width="60%">
-</p>
-
 ---
 
 ## 🌟 Hobbies & Interests
@@ -124,9 +120,6 @@ MYSQL + Flask-based project for railway operations management
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anand-Bora-0001&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
 
 <p align="center">
   <i>⚡ Fun fact: The most productive code is written after midnight! ⚡</i>
