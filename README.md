@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-🎓 **Third-year Computer Engineering Student** at **Savitribai Phule Pune University**  
+🎓 **Computer Engineering Student** at **Savitribai Phule Pune University**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
 🌱 **Currently Learning:** Microservices, Cloud Computing & Advanced AI  
 🔭 **Working on:** Building scalable web applications and ML models  
