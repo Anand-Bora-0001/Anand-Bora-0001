@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anand%20Bora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anand%20Bora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20%7C%20AI-Integrated%20Systems&descAlignY=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+%2B+AI%2FML+Enthusiast;Building+Scalable+Web+Applications;Open+to+Collaboration+%26+Hackathons" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+Enterprise-Grade+Backend+Systems;Microservices+%2B+Cloud-Native+Architecture;FastAPI+%7C+React+%7C+Docker+%7C+Kubernetes;Practical+AI+Integrations+in+Production+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,10 +13,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-bora/)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandbora@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand-Bora-0001)
+[![Resume](https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
 
 <br/>
 
@@ -28,30 +28,17 @@
 
 <br/>
 
+> **Note:** I pulled your real repositories to write this — `observability-platform`, `Enterprise-Digital-Transformation-Platform`, `Enterprise-Data-Platform`, and `HoneyCloud-X` (co-authored with Ganesh Kambli) all exist and check out against what's described below. I didn't add certification badges or coding-profile handles since I couldn't verify those — swap in your real ones before publishing, and update the Resume link.
+
+<br/>
+
 ## 🚀 About Me
 
-```yaml
-name: "Anand Bora"
-role: "Computer Engineering Student & Aspiring Software Engineer"
-university: "Savitribai Phule Pune University"
-focus:
-  - Full-Stack Web Development
-  - AI / Machine Learning
-  - Product-minded Engineering
-currently_learning:
-  - Microservices Architecture
-  - Cloud Computing
-  - Advanced AI / Deep Learning
-currently_building:
-  - "Scalable web applications"
-  - "Machine learning models with real-world impact"
-open_to:
-  - Internships & full-time SDE / AI-ML roles
-  - Open-source contributions
-  - Hackathons & collaborative builds
-```
+Software Engineer in the making, currently completing a Computer Engineering degree at Savitribai Phule Pune University. Over the past several months I've moved from coursework projects into building production-shaped systems: multi-service backends with FastAPI, containerized deployments with Docker and Kubernetes, observability stacks with Prometheus and Grafana, and practical AI integrations (LLM-assisted document summarization, ML-based threat classification) wired into real application flows rather than bolted on as demos.
 
-I'm a Computer Engineering student who enjoys turning ideas into working, scalable software — from full-stack web platforms to applied machine learning systems. My approach blends solid engineering fundamentals with a product mindset: I care as much about clean architecture and performance as I do about the real-world usefulness of what I ship.
+I care about the same things a backend/platform team cares about: clean service boundaries, dependency injection over tight coupling, JWT/RBAC done properly, and systems that fail loudly instead of silently. I'm not presenting myself as a finished senior engineer — I'm a strong, fast-improving early-career builder who ships complete, working systems and documents them properly.
+
+**Open to:** Software Engineering / Backend Engineering / Platform Engineering internships and graduate roles, open-source collaboration, and hackathons.
 
 <br/>
 
@@ -59,19 +46,38 @@ I'm a Computer Engineering student who enjoys turning ideas into working, scalab
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 **Backend & Databases**
 
-![Flask](https://skillicons.dev/icons?i=flask) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
 
 **Cloud, DevOps & Tooling**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![AWS](https://skillicons.dev/icons?i=aws) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+
+<br/>
+
+---
+
+## 🏗️ Architecture Expertise
+
+Patterns and practices actually applied across the projects below, not just studied:
+
+| Area | Applied In |
+|---|---|
+| Clean Architecture (routers → services → data access) | Enterprise DTP, Enterprise Data Platform |
+| Repository Pattern & Service Layer | Enterprise Data Platform |
+| Dependency Injection (FastAPI `Depends()`) | Enterprise DTP, Observability Platform |
+| JWT Authentication & RBAC | All four featured projects |
+| Microservices decomposition | Enterprise Data Platform (catalog / metadata / quality / reporting services) |
+| Event-driven / async background processing | Enterprise DTP (Celery), HoneyCloud-X (async ML retraining) |
+| Containerization & orchestration | Docker across all projects; Kubernetes manifests in Observability Platform & DTP |
+| Observability (metrics, dashboards, alerting) | Observability Platform (Prometheus/Grafana/Alertmanager), Enterprise Data Platform |
 
 <br/>
 
@@ -81,13 +87,14 @@ I'm a Computer Engineering student who enjoys turning ideas into working, scalab
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Where It's Used |
 |---|:---:|---|
-| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ⭐⭐⭐☆☆ | Neural networks, CNNs, working with TensorFlow / PyTorch basics |
-| Data Processing & Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, data cleaning and pipeline design |
-| Applied AI in Web Products | ⭐⭐⭐☆☆ | Integrating ML models into full-stack applications |
-| MLOps Fundamentals | ⭐⭐☆☆☆ | Model packaging, versioning, deployment basics |
+| Classical ML (Random Forest, Isolation Forest) | ⭐⭐⭐⭐☆ | HoneyCloud-X threat classification & anomaly detection |
+| Deep Learning (LSTM, 1D-CNN, Autoencoders) | ⭐⭐⭐☆☆ | HoneyCloud-X optional deep-learning threat engine |
+| NLP / Feature Engineering on text payloads | ⭐⭐⭐☆☆ | HoneyCloud-X payload tokenization & entropy scoring |
+| LLM-assisted application features | ⭐⭐⭐☆☆ | Enterprise DTP document summarization, Enterprise Data Platform natural-language data assistant |
+| Data Processing (Pandas, NumPy) | ⭐⭐⭐⭐☆ | Across ML pipelines and data profiling services |
+| Model Lifecycle (scheduled retraining) | ⭐⭐⭐☆☆ | HoneyCloud-X automated 24h retraining job |
 
 </div>
 
@@ -98,59 +105,83 @@ I'm a Computer Engineering student who enjoys turning ideas into working, scalab
 ## 📌 Featured Projects
 
 <details>
-<summary><b>🚀 WordPress Plugin</b></summary>
+<summary><b>🛰️ Infrastructure Monitoring & Incident Management Platform (observability-platform)</b></summary>
 <br/>
 
-Custom plugin development for WordPress with enhanced functionality, built to extend default CMS capabilities with tailored features for end users.
+A real-time infrastructure observability and incident-response platform built to act as a unified command center for SRE/NOC-style workflows — automated alert triage, incident tracking, ticketing, and maintenance-window scheduling.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | PHP, WordPress Plugin API, JavaScript |
-| **Scale** | Single-site plugin, extensible architecture |
-| **Performance** | Lightweight, minimal overhead on page load |
-| **Security** | Sanitized inputs, WordPress nonce verification |
-| **Impact** | Extended core CMS functionality for custom use cases |
-| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+| **Stack** | FastAPI, React + TypeScript + Vite, PostgreSQL, Redis, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, Blackbox Exporter |
+| **Architecture** | Split between metric ingestion (Prometheus), visualization (Grafana), and incident routing (Alertmanager → FastAPI webhooks) |
+| **Scale** | Multi-host monitoring with 15s scrape intervals; SLA/MTTR/MTBF tracking at daily/weekly/monthly granularity |
+| **Security** | JWT-based stateless authentication |
+| **Observability** | Prometheus + Grafana dashboards, Blackbox probing (HTTP/DNS/TCP/ICMP), multi-channel Alertmanager routing (Slack, Telegram, SMTP) |
+| **Deployment** | Docker Compose for local dev, Kubernetes manifests for HA production |
+| **Repository** | [Anand-Bora-0001/observability-platform](https://github.com/Anand-Bora-0001/observability-platform) |
 
-A hands-on deep dive into the WordPress plugin architecture, hooks, and filters — focused on writing clean, extensible PHP that plays well with the broader WP ecosystem.
+Built around a genuinely useful ops problem: turning raw metrics into actioned incidents instead of just dashboards nobody watches. The webhook engine checks active maintenance windows before generating incidents, so scheduled downtime doesn't create alert noise — a detail that mirrors how real NOC tooling behaves.
 
 </details>
 
 <details>
-<summary><b>📜 Bulk Certificate Generator</b></summary>
+<summary><b>🏢 Enterprise Digital Transformation Platform</b></summary>
 <br/>
 
-A Flask-based system for generating certificates in bulk with customizable templates — built to remove the manual overhead of issuing certificates for events, courses, and workshops.
+A microservices-based operating system for enterprise workflows — combining BPMN 2.0 workflow automation, a configurable no-code business rules engine, agile/Scrum project management, and practical AI document summarization.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | Python, Flask, Pillow, HTML/CSS |
-| **Scale** | Bulk generation from CSV/Excel participant lists |
-| **Performance** | Batch image generation optimized for large participant sets |
-| **Security** | Server-side template validation, safe file handling |
-| **Impact** | Reduced manual certificate creation time significantly for event organizers |
-| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+| **Stack** | FastAPI (Python 3.12), React 18 + TypeScript + Vite, PostgreSQL 15 (JSONB), Redis, Celery, MinIO/AWS S3 |
+| **Architecture** | Clean Architecture with strict router → service → repository separation; dependency injection via FastAPI `Depends()` |
+| **Scale** | SLA escalation engine with time-boxed workflow steps; multi-channel dispatch (Email, Teams, Slack, Twilio SMS) |
+| **Security** | Stateless JWT auth, bcrypt password hashing, granular RBAC (Users → Roles → Permissions) |
+| **AI** | Celery background workers call an LLM to summarize stored documents and help optimize workflow execution |
+| **DevOps** | Docker Compose, Kubernetes (Helm charts), GitHub Actions CI/CD, Prometheus/Grafana monitoring |
+| **Repository** | [Anand-Bora-0001/Enterprise-Digital-Transformation-Platform](https://github.com/Anand-Bora-0001/Enterprise-Digital-Transformation-Platform) |
 
-Designed with a focus on template flexibility, letting organizers plug in their own certificate designs while the backend handles dynamic name/data placement and bulk export.
+The business rules engine is the centerpiece — rules like `IF Budget > 1Cr AND Department == 'Finance' → escalate to CFO` are configured by end users, not developers, which is the actual hard part of workflow platforms. Kafka-based event sourcing and ElasticSearch are on the documented roadmap but not yet built.
 
 </details>
 
 <details>
-<summary><b>🚆 Railway Management System</b></summary>
+<summary><b>🗂️ Enterprise Data Governance & Analytics Platform</b></summary>
 <br/>
 
-A MySQL + Flask-based project for railway operations management, covering core workflows like booking, scheduling, and record management.
+A microservices platform for enterprise metadata management, data quality monitoring, and business glossaries — modeled on the workflows of tools like Purview and Collibra.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | Python, Flask, MySQL, HTML/CSS |
-| **Scale** | Multi-table relational schema for trains, stations, bookings |
-| **Performance** | Indexed queries for fast lookups on train/booking data |
-| **Security** | Parameterized queries to prevent SQL injection |
-| **Impact** | Demonstrated end-to-end relational database design and CRUD workflows |
-| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+| **Stack** | FastAPI microservices (catalog, metadata, quality, reporting, analytics services), React + TypeScript, PostgreSQL, Redis |
+| **Architecture** | Repository Pattern, Service Layer, Dependency Injection, event-driven metadata scanning |
+| **Scale** | Automated metadata discovery across PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, S3, CSV/Excel/Parquet |
+| **Security** | JWT + granular RBAC, immutable audit logs, GDPR-oriented PII detection and data classification tagging |
+| **Data Quality** | Deep profiling (null %, duplicate %, distinct %, statistical summaries), configurable validation rules |
+| **AI** | Natural-language data assistant that answers questions like "what datasets contain Customer ID?" by querying catalog metadata |
+| **Repository** | [Anand-Bora-0001/Enterprise-Data-Platform](https://github.com/Anand-Bora-0001/Enterprise-Data-Platform) |
 
-Built as a full-cycle exercise in relational database design — from schema normalization to building a usable Flask interface on top of it.
+The steward workflow (`Data Owner → Data Steward → Approver → Published`) is deliberately modeled on real enterprise data-governance processes rather than a simplified toy version — it's the part of the system that would actually matter to a Chief Data Officer.
+
+</details>
+
+<details>
+<summary><b>🍯 HoneyCloud — AI-Powered Honeypot & SOC Intelligence Platform</b></summary>
+<br/>
+
+Co-built with Ganesh Kambli. A honeypot orchestration and SOC intelligence platform that deploys decoy services, captures attacker behavior, and classifies it in real time using classical ML and an optional deep-learning engine.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | FastAPI, SQLAlchemy, JWT auth, Scikit-Learn, Pandas, NumPy, optional TensorFlow, React + Vite, Recharts |
+| **Deception layer** | Emulated SSH, HTTP, and MySQL decoy services ("shadow nodes") that log intrusion attempts without touching production infrastructure |
+| **ML pipeline** | Random Forest + Isolation Forest for threat scoring (0–100) and zero-day anomaly detection; optional LSTM/1D-CNN/autoencoder deep-learning engine |
+| **Automation** | Background job retrains models every 24 hours (or after 50+ new events) on freshly labeled attack data |
+| **Alerting** | Telegram bot and Resend-based email dispatch for HIGH/CRITICAL events; MITRE ATT&CK technique mapping on alerts |
+| **Reporting** | PDF (ReportLab), Excel/CSV export for SOC-style incident reports |
+| **Live Demo** | [honeycloud-frontend.onrender.com](https://honeycloud-frontend.onrender.com/) |
+| **Repository** | [Anand-Bora-0001/HoneyCloud-X](https://github.com/Anand-Bora-0001/HoneyCloud-X) |
+
+The interesting engineering decision here is honest, not glamorous: heavy libraries like TensorFlow/PyTorch are deliberately excluded from the production `requirements.txt` because Render's free tier OOMs under their weight — so the system falls back cleanly to the Scikit-Learn pipeline in constrained environments instead of crashing.
 
 </details>
 
@@ -158,19 +189,19 @@ Built as a full-cycle exercise in relational database design — from schema nor
 
 ---
 
-## 💼 Experience
+## 🎓 Earlier Projects
 
-### Software Engineering Intern — `Company Name`
-**Month Year – Month Year**
+<div align="center">
 
-Contributed to the design and development of full-stack features in a collaborative engineering environment, working across the stack from database schema to UI.
+| Project | Description |
+|---|---|
+| [Railway Management System](https://github.com/Anand-Bora-0001/Railway-Management-System) | MySQL + Flask project for railway operations management |
+| [Cloud-SaaS-System](https://github.com/Anand-Bora-0001/Cloud-SaaS-System) | Python-based SaaS system project |
+| [Contact-Management-App](https://github.com/Anand-Bora-0001/Contact-Management-App) | Python contact management application |
+| [Ecommerce-App](https://github.com/Anand-Bora-0001/Ecommerce-App) | Java e-commerce application |
+| Bulk Certificate Generator | Flask-based system for generating certificates in bulk with customizable templates |
 
-- Built and maintained REST API endpoints consumed by the frontend team
-- Collaborated on database schema design and query optimization
-- Participated in code reviews and sprint planning
-- Assisted in debugging and resolving production issues
-
-`Python` `Flask` `MySQL` `Git` `REST APIs`
+</div>
 
 <br/>
 
@@ -182,33 +213,11 @@ Contributed to the design and development of full-stack features in a collaborat
 
 | Recognition | Details |
 |---|---|
-| Hackathon Participant | Built and demoed a working prototype under time constraints |
-| Academic Excellence | Consistent strong academic performance in Computer Engineering coursework |
-| Open Source Contributor | Contributed to community projects on GitHub |
+| Multi-service system builder | Designed and shipped four independent multi-service platforms (observability, workflow automation, data governance, security) beyond coursework scope |
+| Collaborative engineering | Co-built HoneyCloud-X with a fellow developer, including a live production deployment |
+| Consistent GitHub activity | 23 public repositories spanning backend, full-stack, and applied-ML projects |
 
 </div>
-
-<br/>
-
----
-
-## 📜 Certifications
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 <br/>
 
@@ -218,10 +227,12 @@ Contributed to the design and development of full-stack features in a collaborat
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-handle)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+*Add your real profile links here — left unlinked since the handles couldn't be verified.*
 
 </div>
 
@@ -286,21 +297,22 @@ Contributed to the design and development of full-stack features in a collaborat
 
 ```yaml
 learning:
-  - Microservices Architecture
-  - Cloud Computing (AWS)
-  - Advanced AI / Deep Learning
+  - Kubernetes in production (HA, autoscaling)
+  - Event-driven architecture with Kafka
+  - System design fundamentals
 
 building:
-  - Scalable full-stack web applications
-  - Machine learning models with real-world use cases
+  - Deeper AI integrations across existing platforms
+  - ElasticSearch-backed global search for the data governance platform
 
 exploring:
   - MLOps and model deployment pipelines
-  - System design fundamentals
+  - Multi-tenant SaaS architecture
 
 open_to:
   - Software Engineering roles
-  - AI/ML Engineering roles
+  - Backend / Platform Engineering roles
+  - Graduate programs
   - Hackathons and open-source collaboration
 ```
 
@@ -312,10 +324,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandbora@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-bora/)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand-Bora-0001)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.example.com)
 
 </div>
 
@@ -325,7 +336,7 @@ open_to:
 
 <div align="center">
 
-*"The most productive code is written after midnight — but the best code is written with intent."*
+*"Building today, evolving for tomorrow."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
