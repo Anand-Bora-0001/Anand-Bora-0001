@@ -1,126 +1,332 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F74C00&width=600&lines=Hey+there!+👋;I'm+Anand+Bora!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs4eTZremRibmN4ZmlmdnE5OXVzbnBrejZra3d6YTlyMng3d2lndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="350">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anand%20Bora&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+%2B+AI%2FML+Enthusiast;Building+Scalable+Web+Applications;Open+to+Collaboration+%26+Hackathons" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Academic](https://img.shields.io/badge/Computer%20Engineering-Savitribai%20Phule%20Pune%20University-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Pune%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand-Bora-0001)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anand-Bora-0001&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Anand-Bora-0001?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&logo=github)
+![Stars](https://img.shields.io/github/stars/Anand-Bora-0001?style=for-the-badge&color=a78bfa&labelColor=1e1b2e&logo=github)
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
-🎓 **Computer Engineering Student** at **Savitribai Phule Pune University**  
-💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
-🌱 **Currently Learning:** Microservices, Cloud Computing & Advanced AI  
-🔭 **Working on:** Building scalable web applications and ML models  
-🤝 **Open to:** Collaborate on innovative projects and hackathons
 
----
+```yaml
+name: "Anand Bora"
+role: "Computer Engineering Student & Aspiring Software Engineer"
+university: "Savitribai Phule Pune University"
+focus:
+  - Full-Stack Web Development
+  - AI / Machine Learning
+  - Product-minded Engineering
+currently_learning:
+  - Microservices Architecture
+  - Cloud Computing
+  - Advanced AI / Deep Learning
+currently_building:
+  - "Scalable web applications"
+  - "Machine learning models with real-world impact"
+open_to:
+  - Internships & full-time SDE / AI-ML roles
+  - Open-source contributions
+  - Hackathons & collaborative builds
+```
+
+I'm a Computer Engineering student who enjoys turning ideas into working, scalable software — from full-stack web platforms to applied machine learning systems. My approach blends solid engineering fundamentals with a product mindset: I care as much about clean architecture and performance as I do about the real-world usefulness of what I ship.
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-### 🔧 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mongodb,mysql,git,github,vscode" />
-</p>
+![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**Backend & Databases**
+
+![Flask](https://skillicons.dev/icons?i=flask) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+
+**Cloud, DevOps & Tooling**
+
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 AI / ML Expertise
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand-Bora-0001&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| Deep Learning | ⭐⭐⭐☆☆ | Neural networks, CNNs, working with TensorFlow / PyTorch basics |
+| Data Processing & Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, data cleaning and pipeline design |
+| Applied AI in Web Products | ⭐⭐⭐☆☆ | Integrating ML models into full-stack applications |
+| MLOps Fundamentals | ⭐⭐☆☆☆ | Model packaging, versioning, deployment basics |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anand-Bora-0001&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Bora-0001&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anand-Bora-0001&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=4" />
-</p>
+<br/>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 [WordPress Plugin](https://github.com/Anand-Bora-0001)
-Custom plugin development for WordPress with enhanced functionality
-<br>
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<details>
+<summary><b>🚀 WordPress Plugin</b></summary>
+<br/>
 
-### 📜 [Bulk Certificate Generator](https://github.com/Anand-Bora-0001)
-Flask-based system for generating certificates in bulk with customizable templates
-<br>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Custom plugin development for WordPress with enhanced functionality, built to extend default CMS capabilities with tailored features for end users.
 
-### 🚆 [Railway Management System](https://github.com/Anand-Bora-0001)
-MYSQL + Flask-based project for railway operations management
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+| Aspect | Detail |
+|---|---|
+| **Stack** | PHP, WordPress Plugin API, JavaScript |
+| **Scale** | Single-site plugin, extensible architecture |
+| **Performance** | Lightweight, minimal overhead on page load |
+| **Security** | Sanitized inputs, WordPress nonce verification |
+| **Impact** | Extended core CMS functionality for custom use cases |
+| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+
+A hands-on deep dive into the WordPress plugin architecture, hooks, and filters — focused on writing clean, extensible PHP that plays well with the broader WP ecosystem.
+
+</details>
+
+<details>
+<summary><b>📜 Bulk Certificate Generator</b></summary>
+<br/>
+
+A Flask-based system for generating certificates in bulk with customizable templates — built to remove the manual overhead of issuing certificates for events, courses, and workshops.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, Flask, Pillow, HTML/CSS |
+| **Scale** | Bulk generation from CSV/Excel participant lists |
+| **Performance** | Batch image generation optimized for large participant sets |
+| **Security** | Server-side template validation, safe file handling |
+| **Impact** | Reduced manual certificate creation time significantly for event organizers |
+| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+
+Designed with a focus on template flexibility, letting organizers plug in their own certificate designs while the backend handles dynamic name/data placement and bulk export.
+
+</details>
+
+<details>
+<summary><b>🚆 Railway Management System</b></summary>
+<br/>
+
+A MySQL + Flask-based project for railway operations management, covering core workflows like booking, scheduling, and record management.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, Flask, MySQL, HTML/CSS |
+| **Scale** | Multi-table relational schema for trains, stations, bookings |
+| **Performance** | Indexed queries for fast lookups on train/booking data |
+| **Security** | Parameterized queries to prevent SQL injection |
+| **Impact** | Demonstrated end-to-end relational database design and CRUD workflows |
+| **Repository** | [View on GitHub](https://github.com/Anand-Bora-0001) |
+
+Built as a full-cycle exercise in relational database design — from schema normalization to building a usable Flask interface on top of it.
+
+</details>
+
+<br/>
 
 ---
 
-## 💻 Coding Activity
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand-Bora-0001&theme=react-dark&hide_border=true" width="100%">
-</p>
+### Software Engineering Intern — `Company Name`
+**Month Year – Month Year**
 
----
+Contributed to the design and development of full-stack features in a collaborative engineering environment, working across the stack from database schema to UI.
 
-## 🌟 Hobbies & Interests
-🎶 **Music** | ✈️ **Travelling** | 🎮 **Gaming** | 📚 **Reading** | ⚽ **Sports**
+- Built and maintained REST API endpoints consumed by the frontend team
+- Collaborated on database schema design and query optimization
+- Participated in code reviews and sprint planning
+- Assisted in debugging and resolving production issues
 
----
+`Python` `Flask` `MySQL` `Git` `REST APIs`
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anand-bora/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/anand0001/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anand-Bora-0001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anandbora@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
 ---
 
+## 🏆 Achievements
 
-<p align="center">
-  <i>⚡ Fun fact: The most productive code is written after midnight! ⚡</i>
-</p>
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Hackathon Participant | Built and demoed a working prototype under time constraints |
+| Academic Excellence | Consistent strong academic performance in Computer Engineering coursework |
+| Open Source Contributor | Contributed to community projects on GitHub |
+
+</div>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br/>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-handle)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-handle)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anand-Bora-0001&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d9ff" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Anand-Bora-0001&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Bora-0001&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0d9ff" width="49%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anand-Bora-0001&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand-Bora-0001&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e0d9ff" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anand-Bora-0001/Anand-Bora-0001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Microservices Architecture
+  - Cloud Computing (AWS)
+  - Advanced AI / Deep Learning
+
+building:
+  - Scalable full-stack web applications
+  - Machine learning models with real-world use cases
+
+exploring:
+  - MLOps and model deployment pipelines
+  - System design fundamentals
+
+open_to:
+  - Software Engineering roles
+  - AI/ML Engineering roles
+  - Hackathons and open-source collaboration
+```
+
+<br/>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand-Bora-0001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.example.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"The most productive code is written after midnight — but the best code is written with intent."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
