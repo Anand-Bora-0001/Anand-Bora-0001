@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Anand%20Bora&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20%7C%20AI-Integrated%20Systems&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Anand%20Bora&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20and%20Cloud%20%7C%20AI-Integrated%20Systems&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Enterprise-Grade+Backend+Systems;Microservices+%2B+Cloud-Native+Architecture;FastAPI+%7C+React+%7C+Docker+%7C+Kubernetes;Cybersecurity+%2B+AI+%2B+Data+Engineering;Turning+Coursework+into+Production-Shaped+Systems" alt="Typing SVG" />
@@ -348,7 +348,7 @@ The steward workflow (`Data Owner → Data Steward → Approver → Published`) 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20%26%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20and%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Contests-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
