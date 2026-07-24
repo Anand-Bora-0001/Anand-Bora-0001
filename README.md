@@ -344,23 +344,6 @@ The steward workflow (`Data Owner → Data Steward → Approver → Published`) 
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20and%20Learn-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Contests-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
-*Add your real profile links here — left unlinked since the handles couldn't be verified.*
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -372,18 +355,6 @@ The steward workflow (`Data Owner → Data Steward → Approver → Published`) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Bora-0001&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0d9ff" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anand-Bora-0001&theme=radical&utcOffset=5.5" width="49%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anand-Bora-0001&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
