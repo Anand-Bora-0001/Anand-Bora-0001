@@ -30,10 +30,6 @@
 
 <br/>
 
-> **A note on accuracy:** I pulled your real repositories for this README. `observability-platform`, `Enterprise-Digital-Transformation-Platform`, `Enterprise-Data-Platform`, and `HoneyCloud-X` (co-authored with Ganesh Kambli) all exist and match the details described below. For the newer repos you listed — `SentinelGrid-AI`, `Enterprise-MLOps-Platform`, `Real-Time-Data-Engineering-Platform`, `cloud-monitoring-dashboard`, `Bulk-Certificate-Generator`, and the `Anand-Bora` portfolio repo — I could not pull verified details (they weren't reachable via search), so I've written domain-level descriptions from the names/domains you gave rather than inventing tech-stack specifics. **Please review and tighten those sections before publishing.** I also left the coding-profile badges (LeetCode/GFG/HackerRank/CodeChef) unlinked since I couldn't verify handles.
-
-<br/>
-
 ## 🚀 About Me
 
 ```yaml
