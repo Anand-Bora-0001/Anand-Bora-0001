@@ -29,7 +29,7 @@
 I am an **AI Engineer at [Flid AI](https://flid.ai/)** focused on building production-ready software at the intersection of **backend engineering, cloud infrastructure, data, and applied AI**. I enjoy turning complex requirements into clean, dependable systems with thoughtful architecture and practical automation.
 
 - 🤖 **Current Role:** AI Engineer at **Flid AI**
-- ⚡ **Core Stack:** Python, FastAPI, React, PostgreSQL, Docker, Kubernetes and AWS
+- ⚡ **Core Stack:** **Go (Golang)**, **DuckDB**, **Python**, **Distributed Systems**, and **Agent Architectures**.
 - 🧩 **Focus Areas:** AI-integrated products, backend systems, MLOps, data engineering and observability
 - 🌱 **Approach:** Clean architecture, measurable reliability and simple user experiences
 - 📍 **Based in:** Pune, Maharashtra, India
