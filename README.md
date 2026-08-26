@@ -362,7 +362,7 @@ The steward workflow (`Data Owner → Data Steward → Approver → Published`) 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand-Bora-0001&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e0d9ff" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anand-Bora-0001&theme=radical" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
