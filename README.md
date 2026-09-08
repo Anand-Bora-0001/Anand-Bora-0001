@@ -136,7 +136,7 @@ A few corners of my work — from security and ML to the infrastructure undernea
 <br/>
 
 <!--START_SECTION:activity-->
-See what I've been working on in [my public GitHub activity](https://github.com/Anand-Bora-0001).
+1. 💪 Opened PR [#543](https://github.com/flidai/leapview/pull/543) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
