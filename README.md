@@ -1,115 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Anand%20Bora&fontSize=56&fontColor=ffffff&fontAlignY=36&fontFamily=Poppins&desc=AI%20Engineer%20%40%20Flid%20AI%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Cloud%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=17&animation=fadeIn" alt="Anand Bora — AI Engineer @ Flid AI" width="100%" />
+<img src="./assets/hero.svg" width="100%" alt="Anand Bora — AI Engineer at Flid AI. Building intelligence into systems you can rely on." />
+
+<br/>
 
 <p>
-  <a href="https://flid.ai/"><img src="https://img.shields.io/badge/AI%20Engineer-%40%20Flid%20AI-F74C00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer @ Flid AI"/></a>
-  <a href="https://github.com/flidai"><img src="https://img.shields.io/badge/Team-Flid%20AI-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Flid AI"/></a>
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pune, India"/>
+<a href="https://flid.ai/"><img src="https://img.shields.io/badge/AI_Engineer-Flid_AI-a78bfa?style=for-the-badge&amp;labelColor=171329" alt="AI Engineer at Flid AI" /></a>
+<img src="https://img.shields.io/badge/Pune-India-67e8f9?style=for-the-badge&amp;labelColor=171329" alt="Based in Pune, India" />
+<a href="https://github.com/flidai"><img src="https://img.shields.io/badge/Building_with-Flid_AI-f9a8d4?style=for-the-badge&amp;labelColor=171329&amp;logo=github&amp;logoColor=white" alt="Flid AI on GitHub" /></a>
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=F74C00&center=true&vCenter=true&width=850&lines=AI+Engineer+%40+Flid+AI;Building+Reliable+Backend+%26+AI-Integrated+Systems;Python+%7C+FastAPI+%7C+Docker+%7C+Cloud;Applied+AI+%7C+MLOps+%7C+Data+Engineering;Turning+Complex+Requirements+into+Production-Ready+Software" alt="AI Engineer — skills and focus"/>
-</a>
+<p>
+<a href="https://anand-bora.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/anand-bora/">LinkedIn ↗</a> &nbsp; · &nbsp;
+<a href="mailto:anandbora241@gmail.com">Say hello ↗</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Go+%2B+DuckDB+%2B+Python;Agent+architectures+%26+distributed+systems;Practical+AI.+Thoughtful+engineering.;Always+curious.+Always+building." width="100%" alt="Go, DuckDB and Python. Agent architectures and distributed systems. Always curious, always building." />
 
 </div>
 
-<br/>
+## 🪐 A little about my orbit
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-ABOUT%20ME-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="About Me"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28%" alt="Animated illustration of a developer at work" />
 
-<br/>
+I'm **Anand**, an **AI Engineer at [Flid AI](https://flid.ai/)** in Pune, India. I work where **applied AI, backend engineering, and data systems** meet.
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer coding animation"/>
+I like the engineering around the model: how an agent uses tools, how data moves through a system, and how to make the whole thing dependable and easy to understand.
 
-### 🧠 Building practical AI and reliable software systems.
-
-I am an **AI Engineer at [Flid AI](https://flid.ai/)** focused on building production-ready software at the intersection of **backend engineering, cloud infrastructure, data, and applied AI**. I enjoy turning complex requirements into clean, dependable systems with thoughtful architecture and practical automation.
-
-- 🤖 **Current Role:** AI Engineer at **Flid AI**
-- ⚡ **Core Stack:** **Go (Golang)**, **DuckDB**, **Python**, **Distributed Systems**, and **Agent Architectures**.
-- 🧩 **Focus Areas:** AI-integrated products, backend systems, MLOps, data engineering and observability
-- 🌱 **Approach:** Clean architecture, measurable reliability and simple user experiences
-- 📍 **Based in:** Pune, Maharashtra, India
+- 🧠 **Current focus:** agent architectures and distributed systems.
+- ⚡ **Core tools:** Go, DuckDB, and Python.
+- 🛠️ **Things I build:** AI integrations, backend services, data pipelines, and cloud tooling.
+- 🌱 **What I care about:** clear service boundaries, useful automation, and observability.
 
 <br clear="right"/>
 
-<br/>
+<img src="./assets/system-flow.svg" width="100%" alt="My engineering interests: intent → APIs with Go and Python → agents and tools → data with DuckDB → observable insights" />
+
+## ✨ Selected builds
+
+A few corners of my work — from security and ML to the infrastructure underneath.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ SentinelGrid AI</h3>
+<p>Exploring AI-powered cyber resilience.</p>
+<p><code>Applied AI</code> <code>Cybersecurity</code> <code>Full stack</code></p>
+<a href="https://github.com/Anand-Bora-0001/SentinelGrid-AI"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🍯 HoneyCloud-X</h3>
+<p>Honeypot orchestration and SOC intelligence with ML-based threat classification. Co-built with Ganesh Kambli.</p>
+<p><code>FastAPI</code> <code>React</code> <code>Scikit-Learn</code></p>
+<a href="https://github.com/Anand-Bora-0001/HoneyCloud-X"><b>Explore the project →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧬 Enterprise MLOps Platform</h3>
+<p>Model lifecycle, deployment, and production ML workflows.</p>
+<p><code>Python</code> <code>MLOps</code> <code>Docker</code></p>
+<a href="https://github.com/Anand-Bora-0001/Enterprise-MLOps-Platform"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🌊 Real-Time Data Engineering</h3>
+<p>Streaming data pipelines for real-time processing and analytics.</p>
+<p><code>Data engineering</code> <code>Streaming</code> <code>Cloud</code></p>
+<a href="https://github.com/Anand-Bora-0001/Real-Time-Data-Engineering-Platform"><b>Explore the project →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛰️ Observability Platform</h3>
+<p>Infrastructure monitoring, alerting, and incident-response workflows.</p>
+<p><code>Prometheus</code> <code>Grafana</code> <code>FastAPI</code></p>
+<a href="https://github.com/Anand-Bora-0001/cloud-monitoring-dashboard"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🗂️ Enterprise Data Platform</h3>
+<p>Data governance, metadata discovery, quality, and analytics.</p>
+<p><code>FastAPI</code> <code>PostgreSQL</code> <code>React</code></p>
+<a href="https://github.com/Anand-Bora-0001/Enterprise-Data-Platform"><b>Explore the project →</b></a>
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Anand-Bora-0001?tab=repositories"><b>More experiments, tools, and builds ↗</b></a></p>
+
+## 🎨 My toolbox
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-FEATURED%20PROJECTS-0d1117?style=for-the-badge&labelColor=F74C00&logo=codepen&logoColor=white" alt="Featured Projects"/>
+
+<p><b>At the center of my work</b></p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" alt="DuckDB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+
+<p><b>Backend &amp; data</b></p>
+<img src="https://skillicons.dev/icons?i=go,python,fastapi,flask,postgres,mysql,mongodb,redis&amp;perline=8" alt="Go, Python, FastAPI, Flask, PostgreSQL, MySQL, MongoDB, Redis" />
+
+<p><b>Cloud &amp; delivery</b></p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux&amp;perline=6" alt="Docker, Kubernetes, AWS, GitHub Actions, Git, Linux" />
+
+<details>
+<summary><b>Also in the toolkit: frontend &amp; languages</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,java,html,css&amp;perline=6" alt="React, TypeScript, JavaScript, Java, HTML, CSS" />
+</details>
+
 </div>
 
+## 🐍 A year of building, one square at a time
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anand-Bora-0001/Anand-Bora-0001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anand-Bora-0001/Anand-Bora-0001/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake moving through my GitHub contribution calendar" src="https://raw.githubusercontent.com/Anand-Bora-0001/Anand-Bora-0001/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<p align="center"><sub>My contribution calendar, with a little personality. Refreshed daily.</sub></p>
+
+<details>
+<summary><b>📊 More from my GitHub</b></summary>
 <br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anand-Bora-0001&amp;theme=radical" width="100%" alt="GitHub contribution activity overview" />
+
+<p><a href="https://github.com/Anand-Bora-0001?tab=repositories">Browse my repositories</a> · <a href="https://github.com/Anand-Bora-0001?tab=stars">Things I find interesting</a></p>
+
+</details>
+
+<details>
+<summary><b>⚡ Recent public activity</b></summary>
+<br/>
+
+<!--START_SECTION:activity-->
+See what I've been working on in [my public GitHub activity](https://github.com/Anand-Bora-0001).
+<!--END_SECTION:activity-->
+
+</details>
+
+## 💬 Let's build something useful
+
+I'm interested in collaborating on **AI products, agent tooling, backend systems, and open source**. If you're working on a problem in that space, I'd love to hear about it.
 
 <div align="center">
 
-| Project | Description & Tech |
-|---|---|
-| **[SentinelGrid AI](https://github.com/Anand-Bora-0001/SentinelGrid-AI)** | AI-powered cyber-resilience platform.<br/> `AI` `Cybersecurity` `Full Stack` |
-| **[HoneyCloud-X](https://github.com/Anand-Bora-0001/HoneyCloud-X)** | Honeypot orchestration and SOC intelligence with real-time threat classification.<br/> `FastAPI` `React` `Scikit-Learn` `Docker` |
-| **[Enterprise MLOps Platform](https://github.com/Anand-Bora-0001/Enterprise-MLOps-Platform)** | Platform for model lifecycle, deployment and production ML workflows.<br/> `Python` `MLOps` `Docker` `Cloud` |
-| **[Real-Time Data Engineering Platform](https://github.com/Anand-Bora-0001/Real-Time-Data-Engineering-Platform)** | Streaming data platform designed for real-time processing and analytics.<br/> `Data Engineering` `Streaming` `Cloud` |
-| **[Observability Platform](https://github.com/Anand-Bora-0001/cloud-monitoring-dashboard)** | Infrastructure monitoring and incident-response platform.<br/> `Prometheus` `Grafana` `FastAPI` `Kubernetes` |
-| **[Enterprise Data Platform](https://github.com/Anand-Bora-0001/Enterprise-Data-Platform)** | Data governance, metadata, quality and analytics platform.<br/> `FastAPI` `PostgreSQL` `React` `Redis` |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&labelColor=F74C00&logo=stackshare&logoColor=white" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,fastapi,flask,postgres,mysql,mongodb,redis,docker,kubernetes,aws,git,githubactions,linux&perline=9" alt="Technology stack"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="GitHub Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anand-Bora-0001&show_icons=true&theme=radical&hide_border=true&title_color=F74C00&icon_color=F74C00" width="49%" alt="Anand's GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=Anand-Bora-0001&theme=radical&hide_border=true&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" width="49%" alt="Anand's contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anand-Bora-0001&theme=radical" width="100%" alt="Contribution activity"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-LET'S%20CONNECT-0d1117?style=for-the-badge&labelColor=F74C00&logo=handshake&logoColor=white" alt="Let's Connect"/>
-</div>
-
-<p align="center">
-  Interested in collaborating on <strong>AI products</strong>, <strong>backend systems</strong>, <strong>cloud infrastructure</strong> and <strong>open-source software</strong>.
+<p>
+<a href="https://anand-bora.vercel.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-a78bfa?style=for-the-badge&amp;logo=vercel&amp;logoColor=171329" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/anand-bora/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-67e8f9?style=for-the-badge&amp;logoColor=171329" alt="Connect on LinkedIn" /></a>
+<a href="mailto:anandbora241@gmail.com"><img src="https://img.shields.io/badge/Send_a_hello-f9a8d4?style=for-the-badge&amp;logo=gmail&amp;logoColor=171329" alt="Send me an email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://anand-bora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/anand-bora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:anandbora241@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<img src="./assets/footer.svg" width="100%" alt="Build with curiosity. Ship with care." />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anand-Bora-0001&color=F74C00&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer" alt="Footer" width="100%"/>
 </div>

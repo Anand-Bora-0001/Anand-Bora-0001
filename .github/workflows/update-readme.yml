@@ -4,13 +4,25 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/update-readme.yml]
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     name: Update this repo's README with recent activity
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea
+        with:
+          MAX_LINES: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
