@@ -136,7 +136,7 @@ A few corners of my work — from security and ML to the infrastructure undernea
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#543](https://github.com/flidai/leapview/pull/543#issuecomment-5587094030) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 🎉 Merged PR [#4328](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/4328) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
 <!--END_SECTION:activity-->
 
 </details>
