@@ -136,7 +136,7 @@ A few corners of my work — from security and ML to the infrastructure undernea
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#740](https://github.com/flidai/leapview/pull/740) in [flidai/leapview](https://github.com/flidai/leapview)
+1. ❌ Closed PR [#541](https://github.com/flidai/leapview/pull/541) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
