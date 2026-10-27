@@ -136,7 +136,7 @@ A few corners of my work — from security and ML to the infrastructure undernea
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/flidai/flid.ai/pull/10) in [flidai/flid.ai](https://github.com/flidai/flid.ai)
+1. 💪 Opened PR [#11](https://github.com/flidai/flid.ai/pull/11) in [flidai/flid.ai](https://github.com/flidai/flid.ai)
 <!--END_SECTION:activity-->
 
 </details>
