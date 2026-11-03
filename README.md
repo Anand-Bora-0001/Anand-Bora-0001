@@ -84,7 +84,7 @@ I work across the whole stack: product interfaces, backend services, data system
 
 | | Role | Highlights |
 | :-- | :-- | :-- |
-| <img src="https://github.com/flidai.png?size=80" width="40" alt="Flid AI" /> | **AI Engineer** · [Flid AI](https://flid.ai/)<br/><sub>Aug 2026 – present · Remote</sub> | Building [LeapView](https://github.com/flidai/leapview) across agents, analytics, the UI and delivery. |
+| 🚀 | **AI Engineer** · [Flid AI](https://flid.ai/)<br/><sub>Aug 2026 – present · Remote</sub> | Building [LeapView](https://github.com/flidai/leapview) across agents, analytics, the UI and delivery. |
 | 🐍 | **Python Developer Intern** · aiadventures<br/><sub>Jan – Feb 2025 · Pune</sub> | Automated attendance analysis with Python and the Google Sheets API ([Absence Detection](https://github.com/Anand-Bora-0001/Absence-Detection-System)), and built a full-stack [certificate generator](https://github.com/Anand-Bora-0001/Bulk-Certificate-Generator) with Flask. |
 | ☕ | **Java Developer Intern** · ShadowFox<br/><sub>Feb 2025 · Remote</sub> | Built five Java projects, from a JUnit-tested banking system to a Spring Boot [microservices store](https://github.com/Anand-Bora-0001/Ecommerce-App) ([all work](https://github.com/Anand-Bora-0001/ShadowFox)). |
 
