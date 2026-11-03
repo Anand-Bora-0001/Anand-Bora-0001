@@ -8,6 +8,7 @@
 <a href="https://flid.ai/"><img src="https://img.shields.io/badge/AI_Engineer-Flid_AI-a78bfa?style=for-the-badge&amp;labelColor=171329" alt="AI Engineer at Flid AI" /></a>
 <img src="https://img.shields.io/badge/Pune-India-67e8f9?style=for-the-badge&amp;labelColor=171329" alt="Based in Pune, India" />
 <a href="https://github.com/flidai"><img src="https://img.shields.io/badge/Building_with-Flid_AI-f9a8d4?style=for-the-badge&amp;labelColor=171329&amp;logo=github&amp;logoColor=white" alt="Flid AI on GitHub" /></a>
+<a href="https://github.com/flidai/leapview"><img src="https://img.shields.io/badge/Building-LeapView-67e8f9?style=for-the-badge&amp;labelColor=171329" alt="Building LeapView" /></a>
 </p>
 
 <p>
@@ -16,7 +17,7 @@
 <a href="mailto:anandbora241@gmail.com">Say hello ↗</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Go+%2B+DuckDB+%2B+Python;Agent+architectures+%26+distributed+systems;Practical+AI.+Thoughtful+engineering.;Always+curious.+Always+building." width="100%" alt="Go, DuckDB and Python. Agent architectures and distributed systems. Always curious, always building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+LeapView+at+Flid+AI;Go+%2B+DuckDB+%2B+Python;Agent+architectures+%26+distributed+systems;Practical+AI.+Thoughtful+engineering.;Always+curious.+Always+building." width="100%" alt="Building LeapView at Flid AI. Go, DuckDB and Python. Agent architectures and distributed systems. Always curious, always building." />
 
 </div>
 
@@ -36,6 +37,32 @@ I like the engineering around the model: how an agent uses tools, how data moves
 <br clear="right"/>
 
 <img src="./assets/system-flow.svg" width="100%" alt="My engineering interests: intent → APIs with Go and Python → agents and tools → data with DuckDB → observable insights" />
+
+## 🚀 What I'm building at Flid AI
+
+<table>
+<tr>
+<td valign="top">
+<h3>📊 <a href="https://github.com/flidai/leapview">LeapView</a></h3>
+<p><b>Open-source BI for governed analytics, without the lock-in.</b> Dashboards as code, a governed semantic layer, and AI agents that build within the rules a data team sets. Go, DuckDB, Datastar and Lit.</p>
+<p>
+<a href="https://github.com/flidai/leapview/pulls?q=is%3Apr+is%3Amerged+author%3AAnand-Bora-0001"><img src="https://img.shields.io/github/issues-search?query=repo%3Aflidai%2Fleapview%20is%3Apr%20is%3Amerged%20author%3AAnand-Bora-0001&amp;label=my%20merged%20PRs&amp;color=a78bfa&amp;labelColor=171329&amp;style=flat-square" alt="My merged pull requests in LeapView" /></a>
+<a href="https://github.com/flidai/leapview"><img src="https://img.shields.io/github/stars/flidai/leapview?label=stars&amp;color=67e8f9&amp;labelColor=171329&amp;style=flat-square" alt="LeapView GitHub stars" /></a>
+<a href="https://github.com/flidai/leapview/blob/main/LICENSE"><img src="https://img.shields.io/github/license/flidai/leapview?color=f9a8d4&amp;labelColor=171329&amp;style=flat-square" alt="LeapView license" /></a>
+</p>
+<p>What I've shipped:</p>
+<ul>
+<li>🤖 <b>Agent workflows:</b> chat that builds dashboards, previews charts, and saves visuals into reports.</li>
+<li>🔎 <b>Data Explorer:</b> governed exploration, saved results, sharing and export.</li>
+<li>📋 <b>BI tables and charts:</b> hierarchical tables, image cells, streamed table windows, and readable chart layouts.</li>
+<li>🔐 <b>Security and admin:</b> sessions, roles and permissions, SSO flows, encrypted credentials, and audit logs.</li>
+<li>🧰 <b>Developer experience:</b> local-first project setup, a reproducible <code>init</code> CLI, and a component playground.</li>
+<li>🚢 <b>Delivery:</b> hosted demo staging and rollouts.</li>
+</ul>
+<p><a href="https://github.com/flidai/leapview"><b>Explore LeapView →</b></a> &nbsp; · &nbsp; <a href="https://flid.ai/"><b>flid.ai ↗</b></a></p>
+</td>
+</tr>
+</table>
 
 ## ✨ Selected builds
 
