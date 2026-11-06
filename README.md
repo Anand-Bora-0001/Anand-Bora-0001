@@ -11,7 +11,7 @@
 </p>
 
 <p>
-<a href="https://anand-bora.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+<a href="https://anandbora.pages.dev/"><b>Portfolio</b></a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/anand-bora/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
 <a href="https://flid.ai/"><b>flid.ai</b></a> &nbsp;·&nbsp;
 <a href="mailto:anandbora241@gmail.com"><b>Email</b></a>
@@ -205,7 +205,7 @@ I'm always happy to talk about **AI agents, analytics, backend systems and open 
 <div align="center">
 
 <p>
-<a href="https://anand-bora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&amp;logo=vercel&amp;logoColor=171329" alt="Portfolio" /></a>
+<a href="https://anandbora.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&amp;logo=cloudflarepages&amp;logoColor=171329" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/anand-bora/"><img src="https://img.shields.io/badge/LinkedIn-67e8f9?style=for-the-badge&amp;logoColor=171329" alt="LinkedIn" /></a>
 <a href="https://flid.ai/"><img src="https://img.shields.io/badge/flid.ai-f9a8d4?style=for-the-badge&amp;logoColor=171329" alt="flid.ai" /></a>
 <a href="mailto:anandbora241@gmail.com"><img src="https://img.shields.io/badge/Email-e2e8f0?style=for-the-badge&amp;logo=gmail&amp;logoColor=171329" alt="Email" /></a>
