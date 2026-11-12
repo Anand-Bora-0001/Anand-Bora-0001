@@ -193,7 +193,7 @@ Data governance and analytics: metadata discovery, data quality, lineage, PII co
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Anand-Bora-0001/Anand-Bora-0001/pull/1) in [Anand-Bora-0001/Anand-Bora-0001](https://github.com/Anand-Bora-0001/Anand-Bora-0001)
+1. 🗣 Commented on [#1076](https://github.com/flidai/leapview/pull/1076#issuecomment-6822964061) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
