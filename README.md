@@ -193,7 +193,7 @@ Data governance and analytics: metadata discovery, data quality, lineage, PII co
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1076](https://github.com/flidai/leapview/pull/1076#issuecomment-6822964061) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 💪 Opened PR [#14](https://github.com/flidai/flid.ai/pull/14) in [flidai/flid.ai](https://github.com/flidai/flid.ai)
 <!--END_SECTION:activity-->
 
 </details>
