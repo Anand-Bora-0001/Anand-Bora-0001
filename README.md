@@ -193,7 +193,7 @@ Data governance and analytics: metadata discovery, data quality, lineage, PII co
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/flidai/alloycatalog.com/pull/2) in [flidai/alloycatalog.com](https://github.com/flidai/alloycatalog.com)
+1. 🗣 Commented on [#1](https://github.com/flidai/alloycatalog.com/issues/1#issuecomment-6988116316) in [flidai/alloycatalog.com](https://github.com/flidai/alloycatalog.com)
 <!--END_SECTION:activity-->
 
 </details>
